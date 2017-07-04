@@ -20,11 +20,16 @@ namespace r
         private void button1_Click(object sender, EventArgs e)
         {
             Form f2 = new Form2();
-            if (textBox1.Text.ToUpper() == "TRIZOR" && textBox2.Text == "pokemon")
+            if (textBox1.Text.ToUpper() == "TRIZOR3" && textBox2.Text == "cartof")
             {
                 f2.Show();
                 this.Hide();
             }
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
 
         }
     }

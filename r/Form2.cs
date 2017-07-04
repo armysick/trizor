@@ -38,13 +38,7 @@ namespace r
         {
 
         }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            textBox1.Text = listBox1.SelectedItem.ToString().Split(' ')[0];
-            textBox2.Text = listBox1.SelectedItem.ToString().Split(' ')[1];
-
-        }
+        
 
         private void button3_Click(object sender, EventArgs e)
         {
@@ -53,6 +47,59 @@ namespace r
                 
                 listBox1.Items[listBox1.SelectedIndex] = textBox1.Text + " " + textBox2.Text;
             }
+
+        }
+        private void listBox1_SelectedIndexChanged(object sender, System.EventArgs e)
+        {
+            try
+            {
+                textBox1.Text = listBox1.SelectedItem.ToString().Split(' ')[0];
+                textBox2.Text = listBox1.SelectedItem.ToString().Split(' ')[1];
+            }
+            catch (Exception)
+            {
+
+            }
+        }
+
+        private void trackBar1_Scroll(object sender, EventArgs e)
+        {
+            int val = trackBar1.Value;
+
+
+            if (val <= 255)
+                this.BackColor = Color.FromArgb(0, trackBar1.Value, 0);
+            else if (val <= 510)
+                this.BackColor = Color.FromArgb(0, 0, trackBar1.Value - 255);
+            else if (val <= 765)
+                this.BackColor = Color.FromArgb(0, trackBar1.Value - 510, trackBar1.Value - 510);
+            else if (val <= 1020)
+                this.BackColor = Color.FromArgb(trackBar1.Value - 765, 0, 0);
+            else if (val <= 1275)
+                this.BackColor = Color.FromArgb(trackBar1.Value - 1020, trackBar1.Value - 1020, 0);
+            else if (val <= 1530)
+                this.BackColor = Color.FromArgb(trackBar1.Value - 1275, 0, trackBar1.Value - 1275);
+            else if (val <= 1785)
+                this.BackColor = Color.FromArgb(trackBar1.Value - 1530, trackBar1.Value - 1530, trackBar1.Value - 1530);
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
 
         }
     }

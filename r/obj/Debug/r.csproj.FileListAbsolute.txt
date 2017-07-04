@@ -8,3 +8,13 @@ c:\Users\GP\Documents\Visual Studio 2017\Projects\r\r\obj\Debug\r.exe
 c:\Users\GP\Documents\Visual Studio 2017\Projects\r\r\obj\Debug\r.pdb
 c:\Users\GP\Documents\Visual Studio 2017\Projects\r\r\obj\Debug\r.Form2.resources
 c:\Users\GP\Documents\Visual Studio 2017\Projects\r\r\obj\Debug\r.Form1.resources
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\bin\Debug\r.exe.config
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\bin\Debug\r.exe
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\bin\Debug\r.pdb
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\obj\Debug\r.csprojResolveAssemblyReference.cache
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\obj\Debug\r.Form2.resources
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\obj\Debug\r.Form1.resources
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\obj\Debug\r.Properties.Resources.resources
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\obj\Debug\r.csproj.GenerateResource.Cache
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\obj\Debug\r.exe
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\obj\Debug\r.pdb

@@ -1,0 +1,10 @@
+c:\Users\GP\Documents\Visual Studio 2017\Projects\r\r\bin\Debug\r.exe.config
+c:\Users\GP\Documents\Visual Studio 2017\Projects\r\r\bin\Debug\r.exe
+c:\Users\GP\Documents\Visual Studio 2017\Projects\r\r\bin\Debug\r.pdb
+c:\Users\GP\Documents\Visual Studio 2017\Projects\r\r\obj\Debug\r.csprojResolveAssemblyReference.cache
+c:\Users\GP\Documents\Visual Studio 2017\Projects\r\r\obj\Debug\r.Properties.Resources.resources
+c:\Users\GP\Documents\Visual Studio 2017\Projects\r\r\obj\Debug\r.csproj.GenerateResource.Cache
+c:\Users\GP\Documents\Visual Studio 2017\Projects\r\r\obj\Debug\r.exe
+c:\Users\GP\Documents\Visual Studio 2017\Projects\r\r\obj\Debug\r.pdb
+c:\Users\GP\Documents\Visual Studio 2017\Projects\r\r\obj\Debug\r.Form2.resources
+c:\Users\GP\Documents\Visual Studio 2017\Projects\r\r\obj\Debug\r.Form1.resources

@@ -8,3 +8,33 @@ c:\Users\GP\Documents\Visual Studio 2017\Projects\r\r\obj\Debug\r.exe
 c:\Users\GP\Documents\Visual Studio 2017\Projects\r\r\obj\Debug\r.pdb
 c:\Users\GP\Documents\Visual Studio 2017\Projects\r\r\obj\Debug\r.Form2.resources
 c:\Users\GP\Documents\Visual Studio 2017\Projects\r\r\obj\Debug\r.Form1.resources
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\bin\Debug\r.exe.config
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\bin\Debug\r.exe
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\bin\Debug\r.pdb
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\obj\Debug\r.csprojResolveAssemblyReference.cache
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\obj\Debug\r.Form2.resources
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\obj\Debug\r.Form1.resources
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\obj\Debug\r.Properties.Resources.resources
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\obj\Debug\r.csproj.GenerateResource.Cache
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\obj\Debug\r.exe
+C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\obj\Debug\r.pdb
+F:\trizor\r\bin\Debug\r.exe.config
+F:\trizor\r\obj\Debug\r.exe
+F:\trizor\r\obj\Debug\r.pdb
+F:\trizor\r\bin\Debug\r.exe
+F:\trizor\r\bin\Debug\r.pdb
+F:\trizor\r\obj\Debug\r.csprojResolveAssemblyReference.cache
+F:\trizor\r\obj\Debug\r.Form2.resources
+F:\trizor\r\obj\Debug\r.Form1.resources
+F:\trizor\r\obj\Debug\r.Properties.Resources.resources
+F:\trizor\r\obj\Debug\r.csproj.GenerateResource.Cache
+C:\Users\student.pcuser-PC\Documents\Visual Studio 2013\Projects\trizor\r\bin\Debug\r.exe.config
+C:\Users\student.pcuser-PC\Documents\Visual Studio 2013\Projects\trizor\r\obj\Debug\r.exe
+C:\Users\student.pcuser-PC\Documents\Visual Studio 2013\Projects\trizor\r\obj\Debug\r.pdb
+C:\Users\student.pcuser-PC\Documents\Visual Studio 2013\Projects\trizor\r\bin\Debug\r.exe
+C:\Users\student.pcuser-PC\Documents\Visual Studio 2013\Projects\trizor\r\bin\Debug\r.pdb
+C:\Users\student.pcuser-PC\Documents\Visual Studio 2013\Projects\trizor\r\obj\Debug\r.csprojResolveAssemblyReference.cache
+C:\Users\student.pcuser-PC\Documents\Visual Studio 2013\Projects\trizor\r\obj\Debug\r.Form2.resources
+C:\Users\student.pcuser-PC\Documents\Visual Studio 2013\Projects\trizor\r\obj\Debug\r.Form1.resources
+C:\Users\student.pcuser-PC\Documents\Visual Studio 2013\Projects\trizor\r\obj\Debug\r.Properties.Resources.resources
+C:\Users\student.pcuser-PC\Documents\Visual Studio 2013\Projects\trizor\r\obj\Debug\r.csproj.GenerateResource.Cache

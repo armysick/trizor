@@ -13,8 +13,8 @@ namespace r
     public partial class Form2 : Form
     {
         //int test = 0;
-       //int testo = 1;
-       //int testd = 2;
+        //int testo = 1;
+        //int testd = 2;
         public Form2()
         {
             InitializeComponent();
@@ -48,12 +48,12 @@ namespace r
             ds.DataSetName = "Pokemon";
 
             listBox1.Items.Add(textBox1.Text + " " + textBox2.Text + " " + textBox3.Text + " " + textBox4.Text);
-            
-            foreach(Object obiect in listBox1.Items)
+
+            foreach (Object obiect in listBox1.Items)
             {
                 dt.Rows.Add(textBox1.Text + " " + textBox2.Text + " " + textBox3.Text + " " + textBox4.Text);
             };
-            
+
             ds.Tables.Add(dt);
             ds.WriteXml("Employeers.xml");
 
@@ -61,21 +61,18 @@ namespace r
             //testo++;
             //testd++;
         }
-<<<<<<< HEAD
 
         private void label2_Click(object sender, EventArgs e)
         {
 
         }
-=======
->>>>>>> 14dad27f467347afa0e4781920c5a15822296b3c
-        
+
 
         private void button3_Click(object sender, EventArgs e)
         {
-            if(listBox1.SelectedItem != null)
+            if (listBox1.SelectedItem != null)
             {
-                
+
                 listBox1.Items[listBox1.SelectedIndex] = textBox1.Text + " " + textBox2.Text + " " + textBox3.Text + " " + textBox4.Text;
             }
 
@@ -86,11 +83,8 @@ namespace r
             {
                 textBox1.Text = listBox1.SelectedItem.ToString().Split(' ')[0];
                 textBox2.Text = listBox1.SelectedItem.ToString().Split(' ')[1];
-<<<<<<< HEAD
                 textBox3.Text = listBox1.SelectedItem.ToString().Split(' ')[2];
                 textBox4.Text = listBox1.SelectedItem.ToString().Split(' ')[3];
-=======
->>>>>>> 14dad27f467347afa0e4781920c5a15822296b3c
             }
             catch (Exception)
             {
@@ -136,7 +130,6 @@ namespace r
 
         private void button4_Click(object sender, EventArgs e)
         {
-<<<<<<< HEAD
             if (listBox1.SelectedItem != null)
             {
                 while (listBox1.SelectedIndex != -1)
@@ -145,11 +138,9 @@ namespace r
                 }
             }
         }
-        
+
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
-=======
->>>>>>> 14dad27f467347afa0e4781920c5a15822296b3c
 
         }
     }

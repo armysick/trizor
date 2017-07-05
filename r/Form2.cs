@@ -61,11 +61,14 @@ namespace r
             //testo++;
             //testd++;
         }
+<<<<<<< HEAD
 
         private void label2_Click(object sender, EventArgs e)
         {
 
         }
+=======
+>>>>>>> 14dad27f467347afa0e4781920c5a15822296b3c
         
 
         private void button3_Click(object sender, EventArgs e)
@@ -83,8 +86,11 @@ namespace r
             {
                 textBox1.Text = listBox1.SelectedItem.ToString().Split(' ')[0];
                 textBox2.Text = listBox1.SelectedItem.ToString().Split(' ')[1];
+<<<<<<< HEAD
                 textBox3.Text = listBox1.SelectedItem.ToString().Split(' ')[2];
                 textBox4.Text = listBox1.SelectedItem.ToString().Split(' ')[3];
+=======
+>>>>>>> 14dad27f467347afa0e4781920c5a15822296b3c
             }
             catch (Exception)
             {
@@ -130,6 +136,7 @@ namespace r
 
         private void button4_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             if (listBox1.SelectedItem != null)
             {
                 while (listBox1.SelectedIndex != -1)
@@ -141,6 +148,8 @@ namespace r
         
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
+=======
+>>>>>>> 14dad27f467347afa0e4781920c5a15822296b3c
 
         }
     }

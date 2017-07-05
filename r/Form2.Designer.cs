@@ -135,7 +135,10 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(129, 20);
             this.textBox3.TabIndex = 12;
+<<<<<<< HEAD
             this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
+=======
+>>>>>>> 14dad27f467347afa0e4781920c5a15822296b3c
             // 
             // textBox4
             // 

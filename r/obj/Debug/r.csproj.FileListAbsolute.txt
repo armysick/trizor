@@ -18,6 +18,7 @@ C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\obj\Debug\r.Prope
 C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\obj\Debug\r.csproj.GenerateResource.Cache
 C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\obj\Debug\r.exe
 C:\Users\Trizor\Documents\Visual Studio 2017\Projects\trizor\r\obj\Debug\r.pdb
+<<<<<<< HEAD
 F:\trizor\r\bin\Debug\r.exe.config
 F:\trizor\r\obj\Debug\r.exe
 F:\trizor\r\obj\Debug\r.pdb
@@ -38,3 +39,5 @@ C:\Users\student.pcuser-PC\Documents\Visual Studio 2013\Projects\trizor\r\obj\De
 C:\Users\student.pcuser-PC\Documents\Visual Studio 2013\Projects\trizor\r\obj\Debug\r.Form1.resources
 C:\Users\student.pcuser-PC\Documents\Visual Studio 2013\Projects\trizor\r\obj\Debug\r.Properties.Resources.resources
 C:\Users\student.pcuser-PC\Documents\Visual Studio 2013\Projects\trizor\r\obj\Debug\r.csproj.GenerateResource.Cache
+=======
+>>>>>>> 14dad27f467347afa0e4781920c5a15822296b3c

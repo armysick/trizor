@@ -37,14 +37,23 @@
             // 
             // textBox1
             // 
+<<<<<<< HEAD
             this.textBox1.Location = new System.Drawing.Point(126, 115);
+=======
+            this.textBox1.Location = new System.Drawing.Point(121, 115);
+>>>>>>> 14dad27f467347afa0e4781920c5a15822296b3c
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(204, 20);
             this.textBox1.TabIndex = 0;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox2
             // 
+<<<<<<< HEAD
             this.textBox2.Location = new System.Drawing.Point(126, 177);
+=======
+            this.textBox2.Location = new System.Drawing.Point(121, 177);
+>>>>>>> 14dad27f467347afa0e4781920c5a15822296b3c
             this.textBox2.Name = "textBox2";
             this.textBox2.PasswordChar = '*';
             this.textBox2.Size = new System.Drawing.Size(204, 20);
@@ -53,7 +62,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
+<<<<<<< HEAD
             this.label1.Location = new System.Drawing.Point(36, 120);
+=======
+            this.label1.Location = new System.Drawing.Point(31, 120);
+>>>>>>> 14dad27f467347afa0e4781920c5a15822296b3c
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(55, 13);
             this.label1.TabIndex = 2;
@@ -62,7 +75,11 @@
             // label2
             // 
             this.label2.AutoSize = true;
+<<<<<<< HEAD
             this.label2.Location = new System.Drawing.Point(36, 184);
+=======
+            this.label2.Location = new System.Drawing.Point(31, 184);
+>>>>>>> 14dad27f467347afa0e4781920c5a15822296b3c
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(53, 13);
             this.label2.TabIndex = 3;
@@ -70,7 +87,11 @@
             // 
             // button1
             // 
+<<<<<<< HEAD
             this.button1.Location = new System.Drawing.Point(177, 235);
+=======
+            this.button1.Location = new System.Drawing.Point(172, 235);
+>>>>>>> 14dad27f467347afa0e4781920c5a15822296b3c
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 4;
@@ -82,7 +103,11 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(396, 327);
+=======
+            this.ClientSize = new System.Drawing.Size(384, 330);
+>>>>>>> 14dad27f467347afa0e4781920c5a15822296b3c
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
